@@ -1,6 +1,6 @@
 # Byreal LP Deposit — Setup Notes
 
-> ⚠️ **Before deploying or committing to GitHub, you must configure the two placeholders below.**
+> ⚠️ **Before deploying or committing to your project, you must configure the two placeholders below.**
 
 ## 1. Backend Server URL (`byreal.html`)
 
