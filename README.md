@@ -50,7 +50,7 @@ This is **not hardcoded** in source — set it in your deployment environment:
 SOLANA_RPC_URL=https://mainnet.helius-rpc.com/?api-key=YOUR_HELIUS_KEY
 ```
 
-get a helius rpc api link.
+get a helius rpc api link. you'll need it.
 
 **Never commit your Helius API key to GitHub.**
 
